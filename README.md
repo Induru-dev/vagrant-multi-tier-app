@@ -79,7 +79,7 @@ sudo rabbitmqctl set_user_tags test administrator
 ```
 - restart rabbitmq-server 
 
-## MYSQL SETUP
+## TOMCAT SETUP
 
 - ssh into tomcat vm
 
